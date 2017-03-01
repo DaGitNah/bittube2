@@ -1,5 +1,7 @@
 # Welcome to BitTube 
 
+![6a9ed1f90d95d3974ae0b57ccc94c6785ceca81c80792d716d518b20efe223f9](https://cloud.githubusercontent.com/assets/13579802/23485602/21c18196-feaa-11e6-9287-9eb189be4254.jpg)
+
 
 # What is BitTube 
 
@@ -22,9 +24,7 @@ We are under the MIT Lisense. So feel free to take the software, modify it, and 
 
 
 
-   Lol insert Got Any Grapes image here
-   
-# Cool! Community Guide lines?
+   Lol insert Got Any Grapes image here# Cool! Community Guide lines?
 
 
 # Alright, what do you need me to do?
