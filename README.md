@@ -16,7 +16,34 @@ Inspired by our dissatisfaction with advertising-supported online video sites, w
 
 # So what Lisense does BitTube all under? 
 
-We are under the MIT Lisense. So feel free to take the software, modify it, and do what you want. 
+We are under the MIT Lisense. 
+
+MIT License
+
+Copyright (c) [2017] [BitTube]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Long story short... feel free to do whatever!
+
+
+
 
 # Neat! Got any Conduct GuideLines?
 
@@ -24,11 +51,11 @@ We are under the MIT Lisense. So feel free to take the software, modify it, and 
 
 
 
-# Alright, what do you need me to do?
+# Alright, how can I help out?
 
 ## Designers 
 
-This is our current model: (insert model) 
+So, we made some paper mockups. Feel free to make  (insert model) 
 
 
 ## Coders
