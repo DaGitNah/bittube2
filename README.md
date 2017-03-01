@@ -14,36 +14,9 @@ Our mission is to provide a community-based advertisement-free platform for shar
 
 Inspired by our dissatisfaction with advertising-supported online video sites, we seek to use block-chain technology to achieve our vision. BitTube connects content creators, and viewers in an open advertisement-free marketplace for video, podcast or audio -- where viewers determine the value of the content, and creators realize income from their work through cryptocurrencies. 
 
-# So what Lisense does BitTube all under? 
+# So what License does BitTube all under? 
 
-We are under the MIT Lisense. 
-
-MIT License
-
-Copyright (c) [2017] [BitTube]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-Long story short... feel free to do whatever!
-
-
-
+We are under MIT License
 
 # Neat! Got any Conduct GuideLines?
 
