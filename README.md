@@ -37,7 +37,9 @@ Gonna need to code the IPFS Backbone and some front end stuff.
 
 ## Bug Testers
 
+![2e241cbbfa40b515d22f0718ddaab4f25631dfed32a8c3e571ae5a5533e92406](https://cloud.githubusercontent.com/assets/13579802/23485860/5fd6a528-feab-11e6-9499-559cd8f6cef9.jpg)
 
+Like to break things just to see whats inside? Like to find fault in hacks to proove how smart you are? Put those skills to good use. Help us find dank bugs!
 
 
 ## Video Content Creators
