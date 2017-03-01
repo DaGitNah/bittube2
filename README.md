@@ -18,6 +18,10 @@ We are under the MIT Lisense. So feel free to take the software, modify it, and 
 
 # Neat! Got any Conduct GuideLines?
 
+![img-thing](https://cloud.githubusercontent.com/assets/13579802/23485457/72d900b4-fea9-11e6-81f2-984e82b34fd2.jpg)
+
+
+
    Lol insert Got Any Grapes image here
    
 # Cool! Community Guide lines?
