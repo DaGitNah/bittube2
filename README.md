@@ -5,7 +5,7 @@
 
 # What is BitTube 
 
-BiTtube is a decentralised video sharing platfrom. Bascially, people upload content and they get paid for it via bitcoin or other cryptocurrency. 
+BiTtube is a decentralised video sharing platfrom. Bascially, people upload content and they get paid for through a cryptocurrency similar to steemit
 
 
 # Why Does BitTube Exist? 
@@ -33,15 +33,31 @@ This is our current model: (insert model)
 
 ## Coders
 
+Gonna need to code the IPFS Backbone and some front end stuff. 
+
 ## Bug Testers
+
+
+
 
 ## Video Content Creators
 
 # Neat! Whats in it for me?
 
-1. Get credit (linkedin)
-2. Join a fun community 
-3. Potencially get hired 
+Improve existing skills
+
+
+1. Meet people who are interested in similar things
+2. Find mentors and teach others
+3. Build public artifacts that help you grow a reputation (and a career)
+4. Learn people skills
+5. It’s empowering to be able to make changes, even small ones
+
+#Contact 
+
+#Slack Community 
+
+*comming soon!* 
 
 
 
