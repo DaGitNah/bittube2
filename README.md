@@ -24,9 +24,6 @@ We are under the MIT Lisense. So feel free to take the software, modify it, and 
 
 
 
-   Lol insert Got Any Grapes image here# Cool! Community Guide lines?
-
-
 # Alright, what do you need me to do?
 
 ## Designers 
