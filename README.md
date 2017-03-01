@@ -14,15 +14,6 @@ Our mission is to provide a community-based advertisement-free platform for shar
 
 Inspired by our dissatisfaction with advertising-supported online video sites, we seek to use block-chain technology to achieve our vision. BitTube connects content creators, and viewers in an open advertisement-free marketplace for video, podcast or audio -- where viewers determine the value of the content, and creators realize income from their work through cryptocurrencies. 
 
-# So what License does BitTube all under? 
-
-We are under MIT License
-
-# Neat! Got any Conduct GuideLines?
-
-![img-thing](https://cloud.githubusercontent.com/assets/13579802/23485457/72d900b4-fea9-11e6-81f2-984e82b34fd2.jpg)
-
-
 
 # Alright, how can I help out?
 
@@ -44,6 +35,8 @@ Like to break things just to see whats inside? Like to find in hacks to proove h
 
 ## Video Content Creators
 
+Upload your videos to our platform (comming soon) and help us test all features. 
+
 # Neat! Whats in it for me?
 
 Improve existing skills
@@ -62,5 +55,14 @@ Improve existing skills
 *comming soon!* 
 
 
+
+# Neat! Got any Conduct GuideLines?
+
+![img-thing](https://cloud.githubusercontent.com/assets/13579802/23485457/72d900b4-fea9-11e6-81f2-984e82b34fd2.jpg)
+
+
+# So what License does BitTube all under? 
+
+We are under MIT License
 
 
