@@ -52,7 +52,8 @@ Improve existing skills
 
 #Slack Community 
 
-*comming soon!* 
+Joing the really neat slack team we got going on! Invite link is: 
+https://bittube.slack.com/shared_invite/MTQ5MTE2MjEyMTMwLTE0ODg1MDY3MjEtYTFhMjlmZWRlMw
 
 
 
