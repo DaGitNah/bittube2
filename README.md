@@ -48,7 +48,6 @@ Improve existing skills
 4. Learn people skills
 5. It’s empowering to be able to make changes, even small ones
 
-#Contact 
 
 #Slack Community 
 
