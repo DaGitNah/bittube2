@@ -1,7 +1,6 @@
 # Welcome to BitTube 
 
-![6a9ed1f90d95d3974ae0b57ccc94c6785ceca81c80792d716d518b20efe223f9](https://cloud.githubusercontent.com/assets/13579802/23485602/21c18196-feaa-11e6-9287-9eb189be4254.jpg)
-
+![7d83eecc-e3ce-4d38-8bff-5a689d125f8b](https://cloud.githubusercontent.com/assets/13579802/23756039/6c3cbd6a-04b0-11e7-8237-06da4f7ef84a.png)
 
 # What is BitTube 
 
