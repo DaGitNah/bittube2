@@ -23,7 +23,14 @@ So, we made some paper mockups. Feel free to make  (insert model)
 
 ## Coders
 
-Gonna need to code the IPFS Backbone and some front end stuff. 
+Gonna need to code the IPFS Backbone and some front end stuff.  We follow the programmers creado! 
+
+![cqpmpccxeaae5gs](https://cloud.githubusercontent.com/assets/13579802/23756146/bf2fc904-04b0-11e7-80b1-d0f8b4ae95d6.jpg)
+
+
+
+
+
 
 ## Bug Testers
 
